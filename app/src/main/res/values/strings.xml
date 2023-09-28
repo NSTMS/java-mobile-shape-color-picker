@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">java_mobile_shape_color_picker</string>
+    <string-array name="shapes">
+        <item>rectangle</item>
+        <item>triangle</item>
+        <item>circle</item>
+    </string-array>
+</resources>
